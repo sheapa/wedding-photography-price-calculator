@@ -1,0 +1,21 @@
+{
+  "name": "wedding-photography-price-calculator",
+  "version": "1.0.0",
+  "description": "A typescript application that calculates pricing for services offered by a wedding photography company.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "sheapa",
+  "devDependencies": {
+    "@types/jest": "25.2.3",
+    "jest": "26.0.1",
+    "ts-jest": "26.0.0",
+    "typescript": "3.9.3"
+  }
+}
